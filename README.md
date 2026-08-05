@@ -4,11 +4,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d3d1f,25:1a5c33,50:40c954,75:73e094,100:0d3d1f&height=6" width="100%">
 
-<br />
-
-<div align="center"> 
-  <img width="600" height="650" alt="ascii_art_green_transparent" src="https://github.com/user-attachments/assets/36ba2433-edb0-4f70-9a06-17bc0f499d62" />
-</div>  
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duarte-dimas-martins/duarte-dimas-martins/main/ascii_art_dark.png">
+    <img alt="ASCII Art" src="https://raw.githubusercontent.com/duarte-dimas-martins/duarte-dimas-martins/main/ascii_art_light.png" width="600">
+  </picture>
+</div>
 
 <br />
 
