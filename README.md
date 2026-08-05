@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1200&color=30C954&background=0D1117&center=true&vCenter=true&width=1000&height=50&lines=Hey%2C+I%27m+Dimas+%F0%9F%91%8B;Incoming+Master%27s+Student+in+Data+Science+at+FCUL;Bachelor%27s+degree+in+Applied+Statistics;Building+Intelligent+Systems+and+ML+Pipelines;Check+my+LinkedIn+below+and+connect+with+me%21"/>
-</div> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1200&color=40C954&background=0D1117&center=true&vCenter=true&width=1000&height=50&lines=Hey%2C+I%27m+Dimas+%F0%9F%91%8B;Incoming+Master%27s+Student+in+Data+Science+at+FCUL;Bachelor%27s+degree+in+Applied+Statistics;Building+Intelligent+Systems+and+ML+Pipelines;Check+my+LinkedIn+below+and+connect+with+me%21">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1200&color=2DA44E&background=FFFFFF&center=true&vCenter=true&width=1000&height=50&lines=Hey%2C+I%27m+Dimas+%F0%9F%91%8B;Incoming+Master%27s+Student+in+Data+Science+at+FCUL;Bachelor%27s+degree+in+Applied+Statistics;Building+Intelligent+Systems+and+ML+Pipelines;Check+my+LinkedIn+below+and+connect+with+me%21">
+  </picture>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d3d1f,25:1a5c33,50:40c954,75:73e094,100:0d3d1f&height=6" width="100%">
 
@@ -18,10 +21,6 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=duarte-dimas-martins&color=40c954&style=for-the-badge&label=Profile+Views)
   
 </div>
-
-<!--
-<img width="550" height="600" alt="ascii_art_green_white" src="https://github.com/user-attachments/assets/8c19f588-b0d5-432c-8830-f2283d102831" />
--->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d3d1f,25:1a5c33,50:40c954,75:73e094,100:0d3d1f&height=6" width="100%">
 
@@ -69,7 +68,6 @@
   </table>
 </div>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d3d1f,25:1a5c33,50:40c954,75:73e094,100:0d3d1f&height=6" width="100%">
 
 ### Connect With Me 📬
@@ -79,7 +77,6 @@
 <!-- 
 Reminder that:
 - I need to add a link to my portfolio and contact information
-- Fix the images between sections: add a flowing gradient (?)
-- Alternative ASCII image for light theme users
 - Update tech stack
+- Fix background color depending on the user's theme (?)
 -->
