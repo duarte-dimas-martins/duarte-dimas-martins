@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1200&color=40C954&background=0D1117&center=true&vCenter=true&width=1000&height=50&lines=Hey%2C+I%27m+Dimas+%F0%9F%91%8B;Incoming+Master%27s+Student+in+Data+Science+at+FCUL;Bachelor%27s+degree+in+Applied+Statistics;Building+Intelligent+Systems+and+ML+Pipelines;Check+my+LinkedIn+below+and+connect+with+me%21">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1200&color=40C954&background=0D1117&center=true&vCenter=true&width=1000&height=50&lines=Hey%2C+I%27m+Dimas+%F0%9F%91%8B;Master%27s+Student+in+Data+Science+at+ULisboa;Bachelor%27s+degree+in+Applied+Statistics;Building+Intelligent+Systems+and+ML+Pipelines;Check+my+LinkedIn+below+and+connect+with+me%21">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1200&color=2DA44E&background=FFFFFF&center=true&vCenter=true&width=1000&height=50&lines=Hey%2C+I%27m+Dimas+%F0%9F%91%8B;Incoming+Master%27s+Student+in+Data+Science+at+FCUL;Bachelor%27s+degree+in+Applied+Statistics;Building+Intelligent+Systems+and+ML+Pipelines;Check+my+LinkedIn+below+and+connect+with+me%21">
   </picture>
 </div>
@@ -27,7 +27,7 @@
 ### About Me 👨‍💻
 
 <ul>
-<li> Incoming <b>Master's Student in Data Science</b> at <b>Faculty of Sciences of the University of Lisbon</b> </li>
+<li> <b>Master's Student in Data Science</b> at <b>Faculty of Sciences of the University of Lisbon</b> </li>
 <li> Bachelor's degree in <b>Applied Statistics</b>, now shifting focus towards <b>Machine Learning</b> and <b>AI</b></li>
 <li> Building end-to-end projects (EDA, testing, containerization, deployment)</li>
 <li> Open to collaborating on ML/Data Science projects and open-source contributions</li>
