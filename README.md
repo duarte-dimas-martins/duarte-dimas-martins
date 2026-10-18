@@ -7,23 +7,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d3d1f,25:1a5c33,50:40c954,75:73e094,100:0d3d1f&height=6" width="100%">
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duarte-dimas-martins/duarte-dimas-martins/main/ascii_art_dark.png">
-    <img alt="ASCII Art" src="https://raw.githubusercontent.com/duarte-dimas-martins/duarte-dimas-martins/main/ascii_art_light.png" width="600">
-  </picture>
-</div>
-
-<br />
-
-<div align="center">  
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=duarte-dimas-martins&color=40c954&style=for-the-badge&label=Profile+Views)
-  
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d3d1f,25:1a5c33,50:40c954,75:73e094,100:0d3d1f&height=6" width="100%">
-
 ### About Me 👨‍💻
 
 <ul>
@@ -33,6 +16,12 @@
 <li> Open to collaborating on ML/Data Science projects and open-source contributions</li>
 <li> Reach me through the links below!</li>
 </ul>
+
+<div align="center">  
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=duarte-dimas-martins&color=40c954&style=for-the-badge&label=Profile+Views)
+  
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d3d1f,25:1a5c33,50:40c954,75:73e094,100:0d3d1f&height=6" width="100%">
 
